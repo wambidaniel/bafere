@@ -1,0 +1,11 @@
+id,category,category_name,label,text_en
+S1-02,S1,Mistaken-transfer reversal,SCAM,"Hello, I have sent you 85,000 by mistake, it was meant for my mother's hospital bill. Please kindly send it back to this number, God bless you."
+L1-07,L1,Genuine transaction notice,LEGIT,"Hi, it's Kato from the shop. I have sent you the 70,000 change for the fridge from 0782XXXXXX, please confirm you got it. Thanks for buying."
+S2-01,S2,Fake prize or promotion,SCAM,"CONGRATULATIONS! Your number has won UGX 5,000,000 in the MTN Mega Promo. To receive your prize, send UGX 50,000 processing fee to 0771XXXXXX."
+L2-07,L2,Genuine promotion or reward,LEGIT,"Congratulations! You are a winner in the MoMo promotion. Your prize of UGX 50,000 has been credited to your wallet. MTN will never ask you to pay to receive a prize."
+S3-06,S3,"Impersonation of telco, regulator, bank or police",SCAM,"Hello, I am from Airtel head office. We detected fraud on your line. Switch off your phone for 30 minutes and do not answer any calls."
+L3-01,L3,Genuine security or service notice,LEGIT,"MTN will NEVER call you to ask for your MoMo PIN. Do not share your PIN with anyone, including MTN staff. Report fraud on 100."
+S4-01,S4,Relative or friend in distress,SCAM,"Mum, this is my new number, my phone fell in water. I am at school and need 120,000 for exams urgently, send to this number please."
+L4-01,L4,Genuine personal money request or message,LEGIT,"Mum, the school fees balance is 350k and the deadline is Friday. Can you pay into the school account? I will send you the receipt."
+S6-01,S6,"Account block, verification or phishing link",SCAM,MTN MoMo: Your account has been suspended after 3 wrong PIN attempts. Visit momo-ug-verify.com to reactivate within 24 hours.
+L6-03,L6,Genuine account alert,LEGIT,Your Airtel Money account has been locked after 3 wrong PIN attempts. Visit any Airtel shop with your ID to unlock it.
